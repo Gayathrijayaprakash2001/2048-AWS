@@ -12,8 +12,6 @@ This project demonstrates how to deploy the 2048 web game on a Kubernetes cluste
 
 ## Project Structure
 - `manifests/`: Kubernetes Deployment, Service, Ingress, and Namespace YAML files.
-- `eksctl/`: EKS cluster and Fargate profile configs.
-- `cleanup/`: Resource cleanup shell scripts.
 - `screenshots/`: Proof of deployment.
 
 ## Setup Guide
